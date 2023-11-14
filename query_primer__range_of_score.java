@@ -1,3 +1,5 @@
+/* 以下のやり方でも解けたが、模範解答としては平方分割を駆使して最大値と最小値を求めるのが正解らしい */
+
 import java.util.*;
 public class query_primer__range_of_score {
     public static void main(String[] args) {
