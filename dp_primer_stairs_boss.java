@@ -16,6 +16,7 @@ public class dp_primer_stairs_boss {
         array[0] = 1;
         
         //i段目までの登り方が何通りあるかを求める
+        //一歩で、a段か、b段か、c段が登れるので、i段目までの上り方は３パターンの合計となる
         for(int i = 1; i<=n; i++){
             array[i] = 0; 
 
