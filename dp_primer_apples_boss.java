@@ -41,5 +41,7 @@ public class dp_primer_apples_boss {
         }
         
         System.out.println(array[n]);
+
+        sc.close();
     }
 }
