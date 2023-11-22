@@ -93,20 +93,3 @@ public class dp_primer_partial_sums_step0 {
         sc.close();
     }
 }
-
-/*
-for i = 0 to x
-    dp[i] <- false
-
-dp[0] <- true   // おもりを選ばなければ、重さの和を0とすることができる
-
-for i = 1 to n  // おもり i までのおもりを使って
-    for j = x down to a_i    // 重さの和を j とすることができるか？
-        if dp[j-a_i] is true then
-            dp[j] <- true   
-
-if dp[x] is true then
-    print "yes"
-else
-    print "no"
-*/
