@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_lis_continuous_step0
+
 /* 
     問題：
     n 人が横一列に並んでいます。左から i 番目の人を人 i と呼ぶことにします。人 i の身長は a_i [cm]です。

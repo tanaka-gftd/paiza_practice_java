@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_lis_continuous_boss
+
 /*
   問題：
   n 人が横一列に並んでいます。左から i 番目の人を人 i と呼ぶことにします。

@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_lis_boss
+
 /*
   問題：
   n 本の木が横一列に並んでいます。

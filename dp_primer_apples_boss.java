@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_apples_boss
+
 /*
   八百屋にて、りんご x 個が a 円で、りんご y 個が b 円で、りんご z 個が c 円で売られています。
 

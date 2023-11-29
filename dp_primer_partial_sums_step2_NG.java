@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_partial_sums_step2
+
 /* 自分で解いてみたコード */
 /* うまくいく場合もあれば、うまくいかない場合もある。原因不明。*/
 

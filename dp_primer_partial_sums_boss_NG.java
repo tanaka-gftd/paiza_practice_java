@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_partial_sums_boss
+
 /* 自分で解いてみたコード。失敗 */
 
 /*

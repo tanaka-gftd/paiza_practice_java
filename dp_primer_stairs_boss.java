@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_stairs_boss
+
 import java.util.*;
 public class dp_primer_stairs_boss {
     public static void main(String[] args) {

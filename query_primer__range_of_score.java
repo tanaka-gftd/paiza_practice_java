@@ -1,3 +1,4 @@
+//問題URL：https://paiza.jp/works/mondai/query_primer/query_primer__range_of_score 
 /* 以下のやり方でも解けたが、模範解答としては平方分割を駆使して最大値と最小値を求めるのが正解らしい */
 
 import java.util.*;

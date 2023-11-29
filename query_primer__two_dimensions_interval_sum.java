@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/query_primer/query_primer__two_dimensions_interval_sum
+
 /* 二次元区間和問題 */
 /* ちゃんと解けました */
 /* どこの区間の和なのか、どの部分を引くのか、実際に図に書き出してみるとわかりやすい */

@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/query_primer/query_primer__word_count
+
 import java.util.*;
 public class query_primer__word_count {
     public static void main(String[] args) {

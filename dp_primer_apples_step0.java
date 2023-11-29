@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/dp_primer/dp_primer_apples_step0
+
 /*
   問題：
   八百屋にて、りんご1個が a 円で、りんご2個が b 円で売られています。

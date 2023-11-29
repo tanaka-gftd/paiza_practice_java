@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/query_primer/query_primer__vtuber/
+
 /* 自分で解いてみたもの */
 /* スパチャ額の合計が同じだったユーザーについての処理(同じ金額ならユーザー名を辞書順降順にする)がうまくいかず、断念 */
 

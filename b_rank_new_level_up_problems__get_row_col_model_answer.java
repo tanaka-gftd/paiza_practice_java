@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__get_row_col
+
 /* 模範解答 */
 
 /*

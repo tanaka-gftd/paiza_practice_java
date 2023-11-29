@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__get_row_col
+
 /* 自分で解いたコード */
 /* この内容で正解だが、斜め方向の座標の求め方が冗長である */
 

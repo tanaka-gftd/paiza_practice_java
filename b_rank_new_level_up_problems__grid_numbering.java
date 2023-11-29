@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__grid_numbering
+
 /* 自分で解いたコード */
 /* これで正解 */
 /* 斜め方向の処理に関しては、模範解答よりも上手くできたかも */

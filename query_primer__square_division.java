@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/query_primer/query_primer__square_division
+
 import java.util.*;
 public class query_primer__square_division {
     public static void main(String[] args) {

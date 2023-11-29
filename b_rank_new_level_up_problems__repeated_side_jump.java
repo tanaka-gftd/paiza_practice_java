@@ -1,3 +1,5 @@
+//問題URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__repeated_side_jump
+
 /*
     問題：
     paiza 君の学校では体力テストがおこなわれており、現在反復横跳びの計測をしています。
