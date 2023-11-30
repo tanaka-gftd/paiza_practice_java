@@ -1,4 +1,4 @@
-//問題URL：//問題URL：https://paiza.jp/works/mondai/query_primer/query_primer__vtuber/
+//問題URL：https://paiza.jp/works/mondai/query_primer/query_primer__vtuber/
 
 /* 模範回答 https://www.youtube.com/watch?v=J4wB_eg9oyk より */
 
