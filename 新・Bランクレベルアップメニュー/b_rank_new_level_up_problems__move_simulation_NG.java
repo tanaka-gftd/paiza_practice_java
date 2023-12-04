@@ -54,10 +54,12 @@ public class b_rank_new_level_up_problems__move_simulation_NG {
         for(int i = 0; i<n-1; i++){
             int diff = t_array[i + 1] - t_array[i];
             
+            //移動速度を算出
             long y_diff = (y_array[i + 1] - y_array[i]) / diff;
             long x_diff = (x_array[i + 1] - x_array[i]) / diff;
             
             for(int k = t_array[i]; k<=t_array[i + 1]; k++){
+                //移動速度*時間 を加えることで、現在位置を算出
                 y_array_result[k] = y_array[i] + (y_diff * (k - t_array[i]));
                 x_array_result[k] = x_array[i] + (x_diff * (k - t_array[i]));
             }
