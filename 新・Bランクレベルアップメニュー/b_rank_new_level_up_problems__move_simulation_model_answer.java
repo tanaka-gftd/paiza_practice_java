@@ -1,5 +1,7 @@
 //https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__move_simulation
 
+/* 模範解答 */
+
 /*
     問題：
     paiza 君は次のような仕組みの位置情報システムを作成することにしました。

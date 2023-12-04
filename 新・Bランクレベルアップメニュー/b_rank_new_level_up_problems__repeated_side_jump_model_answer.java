@@ -1,5 +1,7 @@
 //問題URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__repeated_side_jump
 
+/* 模範解答 */
+
 /* 
     解説：
     4×N ≦ K ≦ 1,000,000,000より、

@@ -1,5 +1,7 @@
 //問題文URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__perfect_shuffle
 
+/* 模範解答 */
+
 /*
     問題：
     トランプのシャッフルの種類の一つにパーフェクトシャッフルというものがあり、

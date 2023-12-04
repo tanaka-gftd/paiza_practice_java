@@ -1,5 +1,7 @@
 //問題URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__vision_test
 
+/* 模範解答 */
+
 /*
     問題：
     定期検診の一環として視力検査をおこなうことになりました。

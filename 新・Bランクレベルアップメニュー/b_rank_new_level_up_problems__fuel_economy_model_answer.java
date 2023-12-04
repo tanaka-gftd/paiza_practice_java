@@ -1,5 +1,7 @@
 //問題URL：https://paiza.jp/works/mondai/b_rank_new_level_up_problems/b_rank_new_level_up_problems__fuel_economy
 
+/* 模範解答 */
+
 /*
     問題：
     一般的な車では、車が止まった状態から発進する際は燃費がよくないことが知られています。
