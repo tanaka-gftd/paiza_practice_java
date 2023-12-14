@@ -51,7 +51,7 @@ public class b_rank_new_level_up_problems__taxi_distance_model_answer {
 
             例として、
             record Pair(int first, int second) {
-
+                
             };
             は、
         
@@ -62,6 +62,14 @@ public class b_rank_new_level_up_problems__taxi_distance_model_answer {
                 public Pair(int first, int second){
                     this.first = first;
                     this.second = second;
+                }
+
+                public int first(){
+                    return first;
+                }
+                
+                public int second(){
+                    return second;
                 }
             }
             と同一である。
@@ -82,7 +90,7 @@ public class b_rank_new_level_up_problems__taxi_distance_model_answer {
         for (var i = 0; i < N; i++) {
             var x = sc.nextInt();
             var y = sc.nextInt();
-            
+
             //問題文では平方根で比較しているが、平方根しなくても大小関係は変わらないので、そのまま格納
             euclidLen.add(new Pair((px - x) * (px - x) + (py - y) * (py - y), i + 1));
 
