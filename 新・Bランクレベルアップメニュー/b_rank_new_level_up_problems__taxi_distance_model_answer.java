@@ -82,7 +82,10 @@ public class b_rank_new_level_up_problems__taxi_distance_model_answer {
         for (var i = 0; i < N; i++) {
             var x = sc.nextInt();
             var y = sc.nextInt();
+            
+            //問題文では平方根で比較しているが、平方根しなくても大小関係は変わらないので、そのまま格納
             euclidLen.add(new Pair((px - x) * (px - x) + (py - y) * (py - y), i + 1));
+
             taxiLen.add(new Pair(Math.abs(px - x) + Math.abs(py - y), i + 1));
         }
         
